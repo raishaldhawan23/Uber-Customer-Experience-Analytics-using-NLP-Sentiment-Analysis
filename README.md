@@ -41,6 +41,8 @@ The project demonstrates how businesses can leverage text analytics to systemati
 
 ### 1. Customer Satisfaction is Strong but Polarised
 
+<img width="927" height="592" alt="image" src="https://github.com/user-attachments/assets/20ea9354-3b20-4592-8fbb-9b7e01499b23" />
+
 Out of 12,000 reviews:
 | Sentiment | Reviews |
 | --------- | ------: |
