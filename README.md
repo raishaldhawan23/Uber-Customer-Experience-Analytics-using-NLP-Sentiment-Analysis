@@ -109,7 +109,7 @@ This demonstrates:
 
 While Uber receives a large volume of enthusiastic customer feedback, negative experiences tend to be emotionally stronger and often relate to specific operational failures.
 
-## Implementation & Setup
+## Implementation and Setup
 To run this project, install the necessary Python libraries:
 
 <pre>import pandas as pd
